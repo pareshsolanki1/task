@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <td align="center" colspan="10">table A(2b) <br>
+                attributable ownership interest by ethnicity <br>
+                station with one or more attributable persons <br>
+                full power commercial television stations - 2013
+            </td>
+            <!-- <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td> -->
+        </tr>
+        <tr>
+            <td rowspan="3" colspan="2">ehthnicity</td>
+            <td colspan="8" align="center">no. of stations and percent of total</td>
+            <!-- <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td> -->
+        </tr>
+        <tr>
+            <td colspan="2" align="center">nationally</td>
+            <td align="center" colspan="2">nielsen <br>
+            dma 1-50</td>
+            <td align="center" colspan="2">DMA <br>
+            51-100</td>
+            <td align="center" colspan="2">DMA <br>
+            101+</td>
+            <!-- <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td> -->
+        </tr>
+        <tr>
+            <td>no.</td>
+            <td>%</td>
+            <td>no.</td>
+            <td>%</td>
+            <td>no.</td>
+            <td>%</td>
+            <td>no.</td>
+            <td>%</td>
+            <!-- <td></td>
+            <td></td> -->
+        </tr>
+        <tr>
+            <td rowspan="3">hispanic or latino</td>
+            <td>female</td>
+            <td>89</td>
+            <td>89</td>
+            <td>89</td>
+            <td>89</td>
+            <td>78</td>
+            <td>45</td>
+            <td>78</td>
+            <td>23</td>
+        </tr> <tr>
+            <td>male</td>
+            <td>45</td>
+            <td>63</td>
+            <td>89</td>
+            <td>54</td>
+            <td>36</td>
+            <td>16</td>
+            <td>73</td>
+            <td>14</td>
+            <!-- <td></td> -->
+        </tr>
+        <tr>
+            <td>total</td>
+            <td>36</td>
+            <td>87</td>
+            <td>28</td>
+            <td>31</td>
+            <td>13</td>
+            <td>14</td>
+            <td>27</td>
+            <td>32</td>
+            <!-- <td></td> -->
+        </tr>
+        <tr>
+            <td rowspan="3">non-hispanic or latino</td>
+            <td>female</td>
+            <td>21</td>
+            <td>14</td>
+            <td>31</td>
+            <td>19</td>
+            <td>17</td>
+            <td>79</td>
+            <td>33</td>
+            <td>25</td>
+        </tr>
+        <tr>
+            <td>male</td>
+            <td>26</td>
+            <td>36</td>
+            <td>11</td>
+            <td>77</td>
+            <td>48</td>
+            <td>34</td>
+            <td>19</td>
+            <td>71</td>
+            <!-- <td></td> -->
+        </tr>
+        <tr>
+            <td>total</td>
+            <td>15</td>
+            <td>33</td>
+            <td>85</td>
+            <td>31</td>
+            <td>99</td>
+            <td>45</td>
+            <td>31</td>
+            <td>79</td>
+            <!-- <td></td> -->
+        </tr>
+        <tr>
+            <td colspan="2">total station</td>
+            <td>85</td>
+            <td>36</td>
+            <td>78</td>
+            <td>45</td>
+            <td>75</td>
+            <td>36</td>
+            <td>22</td>
+            <td>45</td>
+            <!-- <td></td> -->
+        </tr>
+        <tr>
+            <td colspan="2">insufficient data</td>
+            <td>52</td>
+            <td>21</td>
+            <td>23</td>
+            <td>44</td>
+            <td>77</td>
+            <td>94</td>
+            <td>21</td>
+            <td>31</td>
+            <!-- <td></td> -->
+        </tr>
+        <tr>
+            <td colspan="2">station not field</td>
+            <td>45</td>
+            <td>36</td>
+            <td>31</td>
+            <td>78</td>
+            <td>91</td>
+            <td>37</td>
+            <td>93</td>
+            <td>39</td>
+            <!-- <td></td> -->
+        </tr>
+        <tr>
+            <td colspan="2">all licensed station</td>
+            <td>69</td>
+            <td>33</td>
+            <td>25</td>
+            <td>17</td>
+            <td>34</td>
+            <td>38</td>
+            <td>19</td>
+            <td>37</td>
+            <!-- <td></td> -->
+        </tr>
+       
+        </tr>
+    </table>
+</body>
+</html>
